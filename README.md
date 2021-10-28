@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/SorrisoPraFoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SorrisoPraFoto&show_icons=tru&theme=radical&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SorrisoPraFoto&show_icons=tru&theme=radical&include_all_commits=true"/>
   </a>
   <a href="https://github.com/MartinHeinz/python-project-blueprint">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=SorrisoPraFoto&repo=Edis&theme=radical" />
