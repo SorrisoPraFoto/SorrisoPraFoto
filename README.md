@@ -22,4 +22,4 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes" />
 </div>
-<p align="center" style="font-size: 5px">ROG Wallpaper Pixelart - Made by <a href="https://www.artstation.com/pixeljeff1995">Pixel Jeff</a></p>
+<h6 align="center" style="font-size: 5px">ROG Wallpaper Pixelart - Made by <a href="https://www.artstation.com/pixeljeff1995">Pixel Jeff</a></h6>
