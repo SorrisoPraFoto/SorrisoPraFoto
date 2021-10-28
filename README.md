@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h5>Thanks for seeying my profile 😇</h3>
+<h5 align="center">Thanks for seeying my profile 😇</h3>
 
 ---
 <div align="center">
