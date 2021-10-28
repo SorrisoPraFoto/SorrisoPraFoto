@@ -12,7 +12,7 @@
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=SorrisoPraFoto&show_icons=tru&theme=radical&include_all_commits=true"/>
   </a>
   <a href="https://github.com/MartinHeinz/python-project-blueprint">
-    <img height="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SorrisoPraFoto&repo=Edis&theme=radical" />
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SorrisoPraFoto&repo=Edis&theme=radical" />
   </a>
 </div>
 
