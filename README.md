@@ -1,5 +1,6 @@
 <img src="https://github.com/SorrisoPraFoto/SorrisoPraFoto/blob/main/src/6272395.gif" alt="Image from https://wallpaperaccess.com/full/6272395.gif">
-<h1 align="center">Caruso!</h1>
+### Hi! I'm Marcus Caruso, back end developer in open source projects and Computer Sciente Student in Brazil 🧡
+
 
 <!--
 **SorrisoPraFoto/SorrisoPraFoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
