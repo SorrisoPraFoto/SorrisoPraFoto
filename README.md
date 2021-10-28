@@ -1,4 +1,4 @@
-<img src="https://github.com/SorrisoPraFoto/SorrisoPraFoto/blob/main/src/6272395.gif">
+<img src="https://wallpaperaccess.com/cyberpunk-pixel">
 
 <!--
 **SorrisoPraFoto/SorrisoPraFoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
