@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h3>Thanks for seeying my profile 😇</h3>
+<h5>Thanks for seeying my profile 😇</h3>
 ---
 
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes />
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes" />
