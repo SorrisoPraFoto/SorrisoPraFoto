@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/cyberpunk-pixel">
+<img src="https://wallpaperaccess.com/full/6272395.gif">
 
 <!--
 **SorrisoPraFoto/SorrisoPraFoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
