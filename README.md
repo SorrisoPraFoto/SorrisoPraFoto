@@ -3,7 +3,7 @@
 <h3>Hi! I'm Marcus Caruso, back end developer in open source projects and Computer Sciente Student in Brazil 🧡</h3>
 
 - 📊 SEO Intern
-- 🌱 Studying C#, ASP .NET e REST API's
+- 🌱 Studying C#, ASP .NET and REST API's
 - 🌐 Web development
 - 💻 Hackathons
 - 🎥 Huge fan of Cinema 
