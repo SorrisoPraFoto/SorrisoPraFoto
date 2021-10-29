@@ -18,8 +18,3 @@
 </div>
 
 <h5 align="center">Thanks for seeing my profile 😇</h3>
-
----
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes" />
-</div>
