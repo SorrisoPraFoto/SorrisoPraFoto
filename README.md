@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/SorrisoPraFoto">
-  <img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=SorrisoPraFoto&text_color=0bceda&show_icons=true&title_color=ff5c81&theme=radical&include_all_commits=true&hide_border=false&border_color=ff5c81"/>
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=SorrisoPraFoto&text_color=0bceda&show_icons=true&title_color=ff5c81&theme=radical&include_all_commits=true&hide_border=false&border_color=ff5c81"/>
   </a>
   <a href="https://github.com/SorrisoPraFoto/Edis">
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SorrisoPraFoto&repo=Edis&text_color=0bceda&title_color=ff5c81&theme=radical&hide_border=false&border_color=ff5c81" />
