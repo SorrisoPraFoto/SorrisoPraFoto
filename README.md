@@ -21,5 +21,5 @@
 
 ---
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=ff5c81&text_color=0bceda" alt="Jokes" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=%2ff5c81&textColor=%20bceda" alt="Jokes" />
 </div>
